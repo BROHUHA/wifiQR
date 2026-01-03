@@ -327,7 +327,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🙏 Acknowledgments
 
-- Original project by [bndw](https://github.com/bndw)
+- Original project by [ABIN](https://github.com/BROHUHA)
 - All language contributors listed above
 - [Evergreen UI](https://evergreen.segment.com/) for the component library
 - [QRCode.react](https://github.com/zpao/qrcode.react) for QR generation
