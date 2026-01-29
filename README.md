@@ -2,7 +2,7 @@
 
 # <img width="32px" src="./public/images/wifi.png"> WiFi Card
 
-> 🌐 **Generate beautiful, printable WiFi QR code cards** - Share your network credentials securely with guests!
+>  **Generate beautiful, printable WiFi QR code cards** - Share your network credentials securely with guests!
 
 <p align="center">
   <a href="https://wificard.io/">
@@ -18,20 +18,20 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📱 **QR Code Generation** - Instant WiFi connection by scanning
-- 🎨 **Modern UI** - Beautiful glassmorphism design with animations
-- 🌍 **Multi-language** - Support for 30+ languages
-- 🖨️ **Print Ready** - Optimized for printing
-- 📥 **Download as Image** - Save as PNG for digital sharing
-- 🔒 **Privacy First** - All processing happens in your browser
-- 📐 **Flexible Layout** - Portrait and landscape orientations
-- 🔐 **Multiple Encryption** - WPA/WPA2/WPA3, WEP, WPA2-EAP support
+-  **QR Code Generation** - Instant WiFi connection by scanning
+-  **Modern UI** - Beautiful glassmorphism design with animations
+-  **Multi-language** - Support for 30+ languages
+-  **Print Ready** - Optimized for printing
+-  **Download as Image** - Save as PNG for digital sharing
+-  **Privacy First** - All processing happens in your browser
+-  **Flexible Layout** - Portrait and landscape orientations
+-  **Multiple Encryption** - WPA/WPA2/WPA3, WEP, WPA2-EAP support
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 This project is built with modern web technologies:
 
@@ -46,7 +46,7 @@ This project is built with modern web technologies:
 
 ---
 
-## 📁 Project Architecture
+##  Project Architecture
 
 ```
 wifi-card/
@@ -99,7 +99,7 @@ Provides controls for:
 
 ---
 
-## 🔑 How It Works
+##  How It Works
 
 ### QR Code Format
 
@@ -159,7 +159,7 @@ The app supports 30+ languages using `react-i18next`:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -216,7 +216,7 @@ yarn build
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 The UI features a modern, professional design:
 
@@ -243,7 +243,7 @@ The UI features a modern, professional design:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Here's how to help:
 
@@ -280,7 +280,7 @@ This project uses [Prettier](https://prettier.io/) for formatting. Prettier runs
 
 ---
 
-## 🌍 Supported Languages
+##  Supported Languages
 
 | Language | Author Credit |
 |----------|---------------|
@@ -319,13 +319,13 @@ This project uses [Prettier](https://prettier.io/) for formatting. Prettier runs
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Original project by [ABIN](https://github.com/BROHUHA)
 - All language contributors listed above
